@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "Rock Concert",
+      "date": "2023-11-15",
+      "location": "City Stadium",
+      "description": "A high-energy rock concert featuring popular bands."
+    },
+    {
+      "id": 2,
+      "name": "Art Exhibition",
+      "date": "2023-12-02",
+      "location": "Art Gallery",
+      "description": "A showcase of contemporary art by local artists."
+    },
+    {
+      "id": 3,
+      "name": "Food Festival",
+      "date": "2023-11-25",
+      "location": "Central Park",
+      "description": "A culinary experience featuring diverse cuisines from around the world."
+    },
+    {
+      "id": 4,
+      "name": "Tech Conference",
+      "date": "2023-12-10",
+      "location": "Convention Center",
+      "description": "A gathering of tech enthusiasts to discuss the latest trends."
+    },
+    {
+      "id": 5,
+      "name": "Music Festival",
+      "date": "2023-11-20",
+      "location": "Outdoor Amphitheater",
+      "description": "A weekend-long music festival with various genres of music."
+    }
+  ]
